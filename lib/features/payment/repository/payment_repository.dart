@@ -10,8 +10,8 @@ class PaymentRepository {
   //  String domain = "https://api.paypal.com"; // for production mode
 
   //clientId and secret
-  String clientId = 'Put Your Client Id';
-  String secret = 'Put Your Secret Id';
+  String clientId = 'Put Your Client id';
+  String secret = 'Put Your Secret';
 
   // for getting the access token from Paypal
   Future<String?> getAccessToken() async {

@@ -1,4 +1,4 @@
-# Food Delivery App
+# Clothes Shop App
 
 <img src="assets/images/background_app.png"/>
 
